@@ -194,7 +194,7 @@ function ProjectIndex() {
 }
 
 function FloatingWall({ openLightbox }) {
-  const wallSlides = useMemo(() => [slides[2], slides[12], slides[20], slides[32], slides[1]], []);
+  const wallSlides = useMemo(() => [slides[2], slides[12], slides[20], slides[31], slides[1]], []);
 
   return (
     <section className="floating-wall">
