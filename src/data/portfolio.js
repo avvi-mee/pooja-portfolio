@@ -128,7 +128,7 @@ export const projects = [
     subtitle: "Lift area redesign using wayfinding, wall installation, materials, and prototype execution.",
     accent: "#9b0d24",
     tone: "ruby",
-    slides: pick(21, 31),
+    slides: pick(21, 32),
     keywords: ["Signage", "Wall design", "Prototype", "Execution"],
   },
   {
