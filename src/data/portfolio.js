@@ -30,7 +30,7 @@ export const imageFiles = [
   "29-prototype.png",
   "30-3d-render.png",
   "31-final-execution.png",
-  "32-space-final-photos.png",
+  "32-final-space-v2.png",
   "33-silent-tears-cover.png",
   "34-silent-tears-concept.png",
   "35-mood-board.png",
