@@ -96,7 +96,7 @@ export const slides = imageFiles.map((file, index) => ({
   src: `/portfolio/${file}`,
 }));
 
-export const displaySlides = slides.filter((slide) => slide.id !== 32 && slide.id !== 43);
+export const displaySlides = slides.filter((slide) => slide.id !== 43);
 
 const pick = (start, end) => slides.slice(start - 1, end);
 
